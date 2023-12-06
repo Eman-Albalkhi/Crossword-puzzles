@@ -10,9 +10,6 @@ The crossword puzzle does not contain any black squares, and writing is allowed 
   2 hk hl \
   3 auh buh \
   2 bvl bvk \
-  1 dj | 
-  abd \
-  uvj \
-  hl# |
+  1 dj | abd \ uvj \  hl# |
 
 
